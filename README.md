@@ -1,0 +1,2 @@
+# LibraryBot
+Autonomous library assistant
